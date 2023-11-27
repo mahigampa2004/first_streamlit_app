@@ -6,3 +6,5 @@ streamlit.header('Breakfast Menu')
 streamlit.text('Omega 3 & Blackberry Oatmeal')
 streamlit.text('Kale,Spinach & Rocket Smoothie')
 
+streamlit.header('Build your own fruit smoothie')
+
